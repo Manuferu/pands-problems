@@ -11,4 +11,4 @@ Height = float(input("Enter Height (in cm)"))*0.01
 bmi = Weight/((Height*Height))
 
 #Print result
-print (round(bmi,2))
+print ("BMI is",round(bmi,2))
