@@ -1,3 +1,4 @@
+# Manuel Fernandez
 # Script that calculates the Body Mass Index (BMI)
 # dividing the weight by the hight in metres square
 
