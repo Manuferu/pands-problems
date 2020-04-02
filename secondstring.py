@@ -1,5 +1,5 @@
-# that takes asks a user to input a
-#string and outputs every second letter in reverse order
+# Manuel Fernandez
+# Write a program that takes asks a user to input a string and outputs every second letter in reverse order.
 
 # Sentence introducing by the user
 
