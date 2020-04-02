@@ -1,5 +1,6 @@
+#MAnuel Fernandez
 #Task week 5, outputs if today is weekday or weekend.
-
+##
 import datetime
 #Weekday of today
 now =datetime.datetime.now().weekday()
