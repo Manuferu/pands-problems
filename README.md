@@ -4,6 +4,7 @@
 # below a breakdown of the scripts within the folder:
 
 ########################################################################
+
 -bmi.py : script that calculates the bmi index after asking user to input height and weight
 
 -secondstring.py : script that asks a user to input a string and outputs every second letter in reverse order
